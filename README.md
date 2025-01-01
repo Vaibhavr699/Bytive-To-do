@@ -24,7 +24,7 @@ The app uses React.js, Redux Toolkit for state management, Tailwind CSS for styl
 <b>Edit Task Page:</b> A form for updating the status of a task.<br><br>
 
 <h2>Installation</h2>
-<b>Clone the repository:</b>  git clone https://github.com/your-username/todo-list-manager.git<br>
+<b>Clone the repository:</b>  git clone https://github.com/Vaibhavr699/Bytive-To-do.git<br>
 <b>Navigate into the project directory:</b> cd todo-list-manager<br>
 <b>Install dependencies:</b> npm install <br>
 <b>Run the app:</b> npm start <br>
